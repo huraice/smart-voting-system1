@@ -26,7 +26,7 @@ alert("New Registration Completed ")
 } else {
   echo '<script>
 window.location.href ="userlogin.php";
-alert("Already Logined, Login with user name")
+alert("New Registration Completed ")
 </script>';
 }
 

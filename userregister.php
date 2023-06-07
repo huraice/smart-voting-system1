@@ -6,13 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css" type="text/css" >
 </head>
 
 <body>
-    <header>
-        <h2>Smart Voting</h2>
-    </header>
+<div class="head">
+    
+      <header><h2><img src="images/unnamed.png" alt=""  width="50" height="50" >Smart Voting</h2></header>
+      </div>
     <div id='form'>
         <form name='form' action="usrregi.php" method="POST"  onsubmit="return validateForm()">
             <h3>New Login</h3>

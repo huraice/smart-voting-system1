@@ -16,8 +16,10 @@ include('connection.php');
     <link rel="stylesheet" href="stylebody.css" type="text/css" />
   </head>
   <body>
+    <div class="head">
     
-      <header><h2>Smart Voting</h2></header>
+      <header><h2><img src="images/unnamed.png" alt=""  width="50" height="50" >Smart Voting</h2></header>
+      </div>
       <div id="home" class="home">
         <caption>
           <h1 align="center">Welcome...!</h1>

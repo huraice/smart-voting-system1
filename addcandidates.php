@@ -9,10 +9,12 @@
     <link rel="stylesheet" href="style2.css">
 </head>
 
-<body>
-
-    <header>Smart Voting System</header>
-
+<body> 
+<div class="head">
+    
+    <header><h2><img src="images/unnamed.png" alt=""  width="50" height="50" >Smart Voting</h2></header>
+    </div>
+    <div id="home" class="home">
     <div id="form">
         <form action="addcandidatesphp.php" method="POST">
             <h3>New Candidates Uploading Portal</h3>

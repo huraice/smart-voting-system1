@@ -19,6 +19,11 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div class="head">
+    
+      <header><h2><img src="images/unnamed.png" alt=""  width="50" height="50" >Smart Voting</h2></header>
+      </div>
+      <div id="home" class="home">
     <div class="form" id='form'>
   <h1>Publish Results</h1>
   <button id="publishBtn">Publish</button>

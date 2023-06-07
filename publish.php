@@ -1,7 +1,10 @@
 <?php
 // Assuming you have a MySQL database connection
 
+// Assuming you have a MySQL database connection
+session_start();
 
+include('connection.php');
 if (!$conn) {
   die("Connection failed: " . mysqli_connect_error());
 }

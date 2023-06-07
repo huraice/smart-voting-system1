@@ -7,7 +7,11 @@
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
 </head><body>
-   <header><h2>Smart Voting</h2></header>
+    
+<div class="head">
+    
+      <header><h2><img src="images/unnamed.png" alt=""  width="50" height="50" >Smart Voting</h2></header>
+      </div>
     <div id='form'>
         <form name='form' action="userloginphp.php" method= "POST">
 

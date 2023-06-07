@@ -8,6 +8,10 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<div class="head">
+    
+    <header><h2>Smart Voting</h2></header>
+    </div>
     <div class="admin">
     <center><h2>Administrate</h2></center></div>
     
